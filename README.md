@@ -10,7 +10,7 @@
 
 **如何利用本仓库：**
 
-- 由于在GitHub上不方面展示大量的文字和图表，所以算法的详细讲解与释义将会放在我的技术博客上（https://blog.hackyle.com/category/algorithm/1）
+- 由于在GitHub上不方面展示大量的文字和图表，所以算法的详细讲解与释义将会放在我的技术博客上：https://blog.hackyle.com/category/algorithm/1
 - 本仓库将会存储，在博客文章中所介绍的所有算法的全量代码，代码可直接运行
 
 **开发环境：**
